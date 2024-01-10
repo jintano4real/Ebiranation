@@ -1,14 +1,4 @@
-/**
-* Template Name: Reveal
-* Updated: Jul 27 2023 with Bootstrap v5.3.1
-* Template URL: https://bootstrapmade.com/reveal-bootstrap-corporate-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   background: #fff;
   color: #444;
@@ -623,7 +613,7 @@ section {
 #about .content h2 {
   color: #0c2e8a;
   font-weight: 700;
-  font-size: 36px;
+  font-size: 26px;
   font-family: "Raleway", sans-serif;
 }
 
@@ -655,7 +645,9 @@ section {
 }
 
 #about .content ul li {
+  font:bold; text-align: justify;
   padding-bottom: 10px;
+  font-size: larger;
 }
 
 /* Services Section
